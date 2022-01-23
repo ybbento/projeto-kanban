@@ -1,0 +1,58 @@
+.font-sm {
+	font-size: 12px;
+}
+
+.font-md {
+	font-size: 16px;
+}
+
+.font-lg {
+	font-size: 38px;
+}
+
+h1 {
+	margin: 0;
+}
+
+h2 {
+	margin: 0;
+}
+
+.cardTitle {
+	color: white;
+	padding: 10px;
+}
+
+.cardItemTitle {
+	text-align: start;
+	padding: 10px;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 21px;
+	width: 260px;
+	/* text-align: start; */
+}
+
+.cardLabel {
+	color: white;
+	margin-left: 10px;
+	line-height: 10px;
+	padding: 5px;
+	font-size: 10px;
+	border-radius: 2px;
+}
+
+.colorTodo {
+	background-color: #59b4d1;
+}
+
+.colorInProgress {
+	background-color: #d0935a;
+}
+
+.colorReview {
+	background-color: #945ad1;
+}
+.colorDone {
+	background-color: #59d090;
+}

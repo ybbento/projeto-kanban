@@ -1,0 +1,28 @@
+section {
+	background-color: white;
+	width: auto;
+	height: 81px;
+
+	border-radius: 4px;
+
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.cardItem {
+	display: flex;
+	flex-direction: row;
+
+	align-items: center;
+}
+
+.cardItemcontent {
+	display: flex;
+	flex-direction: column;
+	/* align-items: center; */
+}
+
+.cardIteminfo {
+	display: flex;
+	flex-direction: row;
+}
